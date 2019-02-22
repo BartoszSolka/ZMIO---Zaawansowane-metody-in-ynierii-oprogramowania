@@ -5,7 +5,7 @@
 
 - Prowadzenie projektu - Trello
 - Repozytorium - GitHub
-- Narzędzie do modelowania - draw.io
+- Narzędzie do modelowania - modelio https://www.modelio.org/
 
 ---
 
