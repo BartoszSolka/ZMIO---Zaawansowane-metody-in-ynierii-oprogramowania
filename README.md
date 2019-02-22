@@ -9,6 +9,6 @@
 
 ---
 
-Product owner - 
-Scrum master -
-Team members -
+- Product owner - 
+- Scrum master -
+- Team members -
