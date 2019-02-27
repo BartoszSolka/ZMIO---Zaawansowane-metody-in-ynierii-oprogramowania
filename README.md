@@ -5,10 +5,9 @@
 
 - Prowadzenie projektu - Trello
 - Repozytorium - GitHub
-- Narzędzie do modelowania - modelio https://www.modelio.org/
-
+- Narzędzie do modelowania - https://www.draw.io/
 ---
 
-- Product owner - 
-- Scrum master -
-- Team members -
+- Product owner - Bartosz Solka
+- Scrum master - Marcin Moskwa
+- Team members - Oskar Słyk, Wojciech Sankowski 
