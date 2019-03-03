@@ -13,7 +13,7 @@
 - Team members - Oskar Słyk, Wojciech Sankowski 
 ---
 
-### Zasady wersjonowania dokumentów:
+### Zasady wersjonowania dokumentów formalnych:
 
 Wersja robocza: 0.\*
 
@@ -27,5 +27,3 @@ Każda zmiana ponadto powinna zawierać poniższe informacje:
 - kto dokonał zmiany (widoczne w GitHubie)
 - kiedy zmiana została wprowadzona (przyjmuje się tutaj datę commitu) 
 - co zostało zmienione (wiadomość w commicie)
-
-
