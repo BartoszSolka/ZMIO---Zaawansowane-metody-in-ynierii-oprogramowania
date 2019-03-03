@@ -23,7 +23,7 @@ Drobniejsze poprawki: +0.1; np. pierwotna wersja dokumentu: 1.0, po wprowadzeniu
 
 Wprowadzenie dużych poprawek (znaczna część dokumentu uległa zmianie): +1.0 (część dzisiętna zostaje zredukowana do 0); np. pierwotna wersja dokumentu: 1.1, po wprowadzeniu dużych poprawek: 2.0
 
-Każda zmiana ponadto powinna zawierać poniższe informacje:
-- kto dokonał zmiany (widoczne w GitHubie)
-- kiedy zmiana została wprowadzona (przyjmuje się tutaj datę commitu) 
-- co zostało zmienione (wiadomość w commicie)
+Każda zmiana ponadto musi zawierać poniższe informacje:
+- kto dokonał zmiany
+- kiedy zmiana została wprowadzona
+- co zostało zmienione
