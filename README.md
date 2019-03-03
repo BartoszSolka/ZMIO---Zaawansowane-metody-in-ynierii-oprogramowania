@@ -11,12 +11,13 @@
 - Product owner - Bartosz Solka
 - Scrum master - Marcin Moskwa
 - Team members - Oskar Słyk, Wojciech Sankowski 
+---
 
 ### Zasady wersjonowania dokumentów:
 
 Wersja robocza: 0.*
 
-Wesja finalna: 1.*, 2.*, ...
+Wesja finalna: 1.*; 2.*; ...
 
 Drobniejsze poprawki: +0.1; np. pierwotna wersja dokumentu: 1.0, po wprowadzeniu poprawek: 1.1
 
