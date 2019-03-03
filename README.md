@@ -15,9 +15,9 @@
 
 ### Zasady wersjonowania dokumentów:
 
-Wersja robocza: 0.*
+Wersja robocza: 0.\*
 
-Wesja finalna: 1.*; 2.*; ...
+Wesja finalna: 1.\*; 2.\*; ...
 
 Drobniejsze poprawki: +0.1; np. pierwotna wersja dokumentu: 1.0, po wprowadzeniu poprawek: 1.1
 
