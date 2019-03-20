@@ -1,6 +1,8 @@
 # ZMIO
 ## Zaawansowane metody inżynierii oprogramowania
 
+## System wspomagający działanie firmy transportowej
+
 ---
 
 - Prowadzenie projektu - Trello
