@@ -27,3 +27,9 @@ Każda zmiana ponadto musi zawierać poniższe informacje:
 - kto dokonał zmiany
 - kiedy zmiana została wprowadzona
 - co zostało zmienione
+
+---
+
+### Iteracja 1:
+
+Analiza iteracji: https://docs.google.com/spreadsheets/d/18ae7ughw0yeF19lhI3ztZ0mldKTrILWWYaCRwolqm6k/edit?usp=sharing
