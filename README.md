@@ -35,3 +35,5 @@ Każda zmiana ponadto musi zawierać poniższe informacje:
 ### Iteracja 1:
 
 Analiza iteracji: https://docs.google.com/spreadsheets/d/18ae7ughw0yeF19lhI3ztZ0mldKTrILWWYaCRwolqm6k/edit?usp=sharing
+
+Spotkanie Tygodniowe (13.03 - 20.03):  https://docs.google.com/spreadsheets/d/1LIOmSLM0ch3vuYwuT_AAUF7pfuFa1hfGJ7mRR0HPGsY/edit?usp=sharing
