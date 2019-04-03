@@ -12,7 +12,7 @@
 
 - Product owner - Bartosz Solka
 - Scrum master - Marcin Moskwa
-- Team members - Oskar Słyk, Wojciech Sankowski 
+- Team members - Oskar Słyk, ~~Wojciech Sankowski ~~
 
 Dokument zawierający najważniejsze informacje dot. Scruma: https://docs.google.com/document/d/1Qz2szBA2cLdGJ_iDShaihmKIFIdPu8YlMQvUPm_Ojgo/edit?usp=sharing
 
