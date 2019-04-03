@@ -40,3 +40,11 @@ Każda zmiana ponadto musi zawierać poniższe informacje:
 Analiza iteracji: https://docs.google.com/spreadsheets/d/18ae7ughw0yeF19lhI3ztZ0mldKTrILWWYaCRwolqm6k/edit?usp=sharing
 
 Spotkanie Tygodniowe (13.03 - 20.03):  https://docs.google.com/spreadsheets/d/1LIOmSLM0ch3vuYwuT_AAUF7pfuFa1hfGJ7mRR0HPGsY/edit?usp=sharing
+
+---
+
+### Iteracja 2:
+
+Analiza iteracji: https://docs.google.com/spreadsheets/d/1Y_O6HptBgBntu6dw8Z1EaTmLZo-v3r4IaBlWduEMbQE/edit?usp=sharing
+
+Spotkanie Tygodniowe (29.03 - 02.04):  https://docs.google.com/spreadsheets/d/1Makk8ZrQTksvgUxS89kqMZC2_zH4a8JStTSkmJ3FbD8/edit?usp=sharing 
