@@ -48,3 +48,6 @@ Spotkanie Tygodniowe (13.03 - 20.03):  https://docs.google.com/spreadsheets/d/1L
 Analiza iteracji: https://docs.google.com/spreadsheets/d/1Y_O6HptBgBntu6dw8Z1EaTmLZo-v3r4IaBlWduEMbQE/edit?usp=sharing
 
 Spotkanie Tygodniowe (29.03 - 02.04):  https://docs.google.com/spreadsheets/d/1Makk8ZrQTksvgUxS89kqMZC2_zH4a8JStTSkmJ3FbD8/edit?usp=sharing 
+
+Spotkanie Tygodniowe (03.04 - 09.04): 
+https://docs.google.com/spreadsheets/d/1ihdKcSB6KrlERE7ZnbHJkcnM0973-ZJ1ufToK9DrpCM/edit?usp=sharing
