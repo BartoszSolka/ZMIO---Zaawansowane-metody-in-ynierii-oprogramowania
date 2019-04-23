@@ -51,3 +51,9 @@ Spotkanie Tygodniowe (29.03 - 02.04):  https://docs.google.com/spreadsheets/d/1M
 
 Spotkanie Tygodniowe (03.04 - 09.04): 
 https://docs.google.com/spreadsheets/d/1ihdKcSB6KrlERE7ZnbHJkcnM0973-ZJ1ufToK9DrpCM/edit?usp=sharing
+
+---
+
+### Iteracja 3:
+
+Analiza iteracji: https://docs.google.com/spreadsheets/d/182qmZZ8lBgl1oenfDs9xHMv1U43buZLFVsZU9N6owf4/edit?usp=sharing
