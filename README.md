@@ -63,3 +63,13 @@ https://docs.google.com/spreadsheets/d/1IWJnLP1D-Be7lkJwoN5gN3USudLOvieiLE-F92mY
 
 Spotkanie Tygodniowe (01.05 - 07.05):
 https://docs.google.com/spreadsheets/d/1sQ9MtzpWFSYxMFJuhYol9piMgMCZOXRD41KYj48j5V4/edit?usp=sharing
+
+---
+
+### Iteracja 4:
+
+Analiza iteracji: https://docs.google.com/spreadsheets/d/1b9ZuViC42-qqguojWbQlh5RW8D0KsB1RAb-YPfDRzg8/edit?usp=sharing
+
+Spotkanie Tygodniowe (10.05 - 14.05):
+
+Spotkanie Tygodniowe (15.05 - 21.05):
