@@ -57,3 +57,19 @@ https://docs.google.com/spreadsheets/d/1ihdKcSB6KrlERE7ZnbHJkcnM0973-ZJ1ufToK9Dr
 ### Iteracja 3:
 
 Analiza iteracji: https://docs.google.com/spreadsheets/d/182qmZZ8lBgl1oenfDs9xHMv1U43buZLFVsZU9N6owf4/edit?usp=sharing
+
+Spotkanie Tygodniowe (23.04 - 30.04):
+https://docs.google.com/spreadsheets/d/1IWJnLP1D-Be7lkJwoN5gN3USudLOvieiLE-F92mYXwo/edit?usp=sharing
+
+Spotkanie Tygodniowe (01.05 - 07.05):
+https://docs.google.com/spreadsheets/d/1sQ9MtzpWFSYxMFJuhYol9piMgMCZOXRD41KYj48j5V4/edit?usp=sharing
+
+---
+
+### Iteracja 4:
+
+Analiza iteracji: https://docs.google.com/spreadsheets/d/1b9ZuViC42-qqguojWbQlh5RW8D0KsB1RAb-YPfDRzg8/edit?usp=sharing
+
+Spotkanie Tygodniowe (10.05 - 14.05):
+
+Spotkanie Tygodniowe (15.05 - 21.05):
