@@ -70,6 +70,6 @@ https://docs.google.com/spreadsheets/d/1sQ9MtzpWFSYxMFJuhYol9piMgMCZOXRD41KYj48j
 
 Analiza iteracji: https://docs.google.com/spreadsheets/d/1b9ZuViC42-qqguojWbQlh5RW8D0KsB1RAb-YPfDRzg8/edit?usp=sharing
 
-Spotkanie Tygodniowe (10.05 - 14.05):
+Spotkanie Tygodniowe (10.05 - 14.05): https://docs.google.com/spreadsheets/d/118QA8lq3gjtXMNg5FeZeyqSW8LS-Q5bGHtxRYmevLeI/edit?usp=sharing
 
-Spotkanie Tygodniowe (15.05 - 21.05):
+Spotkanie Tygodniowe (15.05 - 21.05): https://docs.google.com/spreadsheets/d/1uAaW9skekZqLxHVP5SqmmQoLo2x0Ee3ZMsHm_qsvj8Q/edit?usp=sharing
